@@ -1,2 +1,0 @@
-# lumina
-tienda departamental
